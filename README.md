@@ -1,1 +1,1 @@
-# gcl-debugging
+# Google Codelab: Debugging
